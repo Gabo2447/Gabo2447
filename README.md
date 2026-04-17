@@ -1,28 +1,44 @@
-# 🚀 Programador & Constructor
+<h1 align="center"><b>Hi , I'm Gabriel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-**Desarrollador Junior** dedicado a la creación de aplicaciones con **JavaScript** y **C++**. Mi pasión se centra en el **Desarrollo Web** (Frontend y Backend) y en construir sistemas funcionales desde cero.
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-**Actualmente Inmerso en:**
-* Backend con **Node.js** y gestión de datos con **SQLite**.
-* Profundizando en las bases del desarrollo de sistemas con **C++**.
+I am a high school student currently in 9th grade. I am expanding my knowledge in both front-end and back-end development, and I apply what I’ve learned to various tests and challenges I encounter on a daily basis. I love learning and creating new, productive, innovative, and creative things.
+- 🌱 I’m currently learning ...
+  - Next.js
+  - Node.js
+  - Express
+  - C++
+  - Godot
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Do what they don't dare to do<br>
+- Outside tech, 🎮 I love playing soccer, 🎵 listening to music, and 📖 reading science books.
+- 👾 In addition, I develop video games using Godot, and I'm currently building my first game engine with C++
+- 📫 Reach out to me at: <a href="gabrieldeolival2@gmail.com">gabrieldeolival2@gmail.com</a>
 
-**🔭 Visión Futura:** Explorar la intersección entre la programación de aplicaciones y la **Inteligencia Artificial** para proyectos innovadores.
+## My Skills Include
 
-# 💻 Tecnologias:
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gabo2447&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gabo2447&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo2447&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trofeos
-![](https://github-profile-trophy.vercel.app/?username=Gabo2447&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+</span>
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+
+</span>
