@@ -6,15 +6,13 @@
 
 I am a high school student currently in 9th grade. I am expanding my knowledge in both front-end and back-end development, and I apply what I’ve learned to various tests and challenges I encounter on a daily basis. I love learning and creating new, productive, innovative, and creative things.
 - 🌱 I’m currently learning ...
-  - Next.js
-  - Node.js
-  - Express
-  - C++
-  - Godot
+  - TypeScript
+  - JavaScript
+  - Java
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Do what they don't dare to do<br>
 - Outside tech, 🎮 I love playing soccer, 🎵 listening to music, and 📖 reading science books.
-- 👾 In addition, I develop video games using Godot, and I'm currently building my first game engine with C++
+- 👾 In addition, I develop video games using Java, and I'm currently building my first game engine with C++
 - 📫 Reach out to me at: <a href="gabrieldeolival2@gmail.com">gabrieldeolival2@gmail.com</a>
 
 ## My Skills Include
@@ -24,7 +22,7 @@ I am a high school student currently in 9th grade. I am expanding my knowledge i
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 
