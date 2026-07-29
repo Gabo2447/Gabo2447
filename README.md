@@ -1,10 +1,10 @@
-<h1 align="center"><b>Hi , I'm Gabriel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Zabrek </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a high school student currently in 9th grade. I am expanding my knowledge in both front-end and back-end development, and I apply what I’ve learned to various tests and challenges I encounter on a daily basis. I love learning and creating new, productive, innovative, and creative things.
+I am a trainee/junior developer. I am expanding my knowledge in both front-end and back-end development, and I apply what I’ve learned to various tests and challenges I encounter on a daily basis. I love learning and creating new, productive, innovative, and creative things.
 - 🌱 I’m currently learning ...
   - TypeScript
   - JavaScript
@@ -12,7 +12,7 @@ I am a high school student currently in 9th grade. I am expanding my knowledge i
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Do what they don't dare to do<br>
 - Outside tech, 🎮 I love playing soccer, 🎵 listening to music, and 📖 reading science books.
-- 👾 In addition, I develop video games using Java, and I'm currently building my first game engine with C++
+- 👾 In addition, I develop video games using Java.
 - 📫 Reach out to me at: <a href="gabrieldeolival2@gmail.com">gabrieldeolival2@gmail.com</a>
 
 ## My Skills Include
