@@ -36,13 +36,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-* 🎮 **[RPGPlugin](https://github.com/Gabo2447)** — Minecraft Spigot/Paper plugin focused on custom skills, mana management, and clean architecture.
-* 🛠️ **Open Source Contributions** — Bug fixes and improvements in community plugins like BetonQuest.
-
----
-
 ### 📫 Connect with me
 
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gabrieldeolival2@gmail.com)
